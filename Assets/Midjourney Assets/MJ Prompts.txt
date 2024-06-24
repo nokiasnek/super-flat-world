@@ -1,0 +1,4 @@
+MJ Prompts
+
+#1
+/imagine prompt:16 bit style avatar, 60mm, frontal perspective, full body, transparent background --no background
