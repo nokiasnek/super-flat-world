@@ -28,7 +28,7 @@ public class UIManager : MonoBehaviour
     {
 
         StartPanel.SetActive(true);
-        StartButtonPanel.SetActive(true);
+        StartButtonPanel.SetActive(false);
         PlayerProfilePanel.SetActive(false);
         GameUIPanel.SetActive(false);
     }
